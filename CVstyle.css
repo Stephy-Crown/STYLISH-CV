@@ -1,0 +1,92 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+background-color:rgb(240, 185, 241); 
+padding: 18px 0 18px 0;
+}
+.CV-image{
+    height:250px ;
+    border: 3px solid rgb(216, 118, 211);
+    border-radius:50%;
+    margin:auto;
+}
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+   margin:0px auto
+}
+.section{
+    background-color: #fff;
+    padding:15px;
+    margin-bottom:10px; 
+    border-radius:10px;
+}
+.buttons{
+    background-color:rgb(237, 198, 238);
+    border-radius: 8px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    width: 100%;
+}
+table, th, td{
+border: 2px solid #cecece;
+text-align: center;
+table-layout: fixed;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.input{
+    padding:15px;
+}
+
+progress{
+    width:30%;
+    height:20px ;
+    color:rgb(209, 98, 211);
+    background:#efefef
+}
+
+progress::-moz-progress-bar{
+    background-color:rgb(209, 98, 211) ;
+}
+
+
+progress::-webkit-progress-bar{
+    background-color:rgb(209, 98, 211) ;
+}
+
+progress::-webkit-progress-bar{
+    background-color:rgb(209, 98, 211);
+}
+.submit:hover {
+    background-color:rgb(209, 98, 211) ;
+} 
+.submit{
+    background-color:rgb(209, 98, 211);
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color:#ffff;
+    border:none;
+    outline: none;
+    margin:0;
+    font-weight: bold;
+    
+    
+}   
+textarea{
+    height: 100px;
+    width: 400px;
+}
+input,textarea{
+    margin-bottom:px ;
+    font-size: 11pt;
+    padding: 15px 10px 10px;
+    border: 1px solid #cecece;
+    border-radius: 5px;
+    background-color: #efefef;
+}
