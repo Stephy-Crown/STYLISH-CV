@@ -52,15 +52,18 @@ progress{
 
 progress::-moz-progress-bar{
     background-color:rgb(209, 98, 211) ;
+    background: rgb(209, 98, 211);
 }
 
 
 progress::-webkit-progress-bar{
     background-color:rgb(209, 98, 211) ;
+    background: rgb(209, 98, 211);
 }
 
 progress::-webkit-progress-bar{
     background-color:rgb(209, 98, 211);
+    background: rgb(209, 98, 211);
 }
 .submit:hover {
     background-color:rgb(209, 98, 211) ;
